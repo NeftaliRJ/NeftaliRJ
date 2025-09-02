@@ -30,23 +30,11 @@ About me
 
 Software development specialist with 5+ years building backend and full‑stack solutions for health, tourism, and automotive. I work with JavaScript/TypeScript/Python and care deeply about performance, code quality, and automation.
 
-At Wizeline, I built an automation tool that improved support ticket resolution speed by 24%, boosting customer service efficiency.
+I built an automation tool that improved support ticket resolution speed by 24%, boosting customer service efficiency.
 	•	🌎 Based in Cancún, Mexico (UTC‑5)
 	•	🧭 Focus: Node.js / NestJS / React / AWS / Docker / Kubernetes / PostgreSQL
 	•	🤝 Open to collaborating on data‑driven products and high‑traffic platforms
 	•	✍️ I also share ideas on Medium and Stack Overflow
-
-⸻
-
-Experience
-	•	Wizeline — Software Engineer (2021‑Present)
-Global teams across Frontend, Backend, and DevOps; tech adoption and automation.
-	•	Kavak — Mid Software Engineer (2021‑2022)
-Logistics system migration/upgrade; expanded from backend to full‑stack.
-	•	Dirección Gral. de Turismo Cancún — Full‑Stack Developer (2021)
-Built the Quintana Roo tourism site from scratch; Python web scraping and NodeJS + GraphQL APIs.
-	•	Mi Expediente Médico — Backend Developer (2019‑2021)
-Emergency modules, legacy PHP 7 refactor → Node.js + TypeScript, mentored newcomers.
 
 ⸻
 
